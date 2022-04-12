@@ -1,0 +1,6 @@
+.module {
+  border: 1px solid #ccc;
+  &:hover {
+    border-color: rgb(0, 146, 204);
+  }
+}
